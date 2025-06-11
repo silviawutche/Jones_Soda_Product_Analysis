@@ -1,0 +1,23 @@
+Project: Optimizing Production Efficiency for Jones Soda
+Domain: Manufacturing
+Function: Operations
+
+Background
+Jones Soda, a specialty beverage manufacturer, is experiencing inefficiencies in its production line due to frequent downtime. The company wants to analyze its production data to identify downtime patterns, operator performance issues, and bottlenecks that impact efficiency.
+
+The dataset includes key details such as production start and end times, product types, operator data, and downtime reasons. By analyzing this data, Jones Soda aims to implement data-driven solutions to reduce downtime by atleast 20% and improve overall efficiency.
+
+Your Role
+As a data analyst, your goal is to analyze production and downtime data to provide actionable insights for Jones Soda’s operations team.
+
+Key Analysis Areas
+1️⃣ Production Efficiency: Analyze batch processing times across products and operators
+2️⃣ Downtime Analysis: Identify major downtime causes and their impact on production
+3️⃣ Operator Performance: Evaluate operator efficiency and contributions to delays
+4️⃣ Process Optimization: Identify bottlenecks and suggest ways to reduce downtime
+
+Deliverables
+1.  Report on variations in production times across different products and operators
+2.  Identify top downtime factors and their impact
+3.  Highlight the best- and worst-performing operators
+4.  Recommend strategies to reduce inefficiencies
