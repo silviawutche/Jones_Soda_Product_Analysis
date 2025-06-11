@@ -170,6 +170,7 @@ By implementing our **recommended fixes**, we can **recover 7 batches** and **sa
  **Recovered batches: 7 additional batches**  
 
 ---
+[Link to the Report](https://github.com/silviawutche/Jones_Soda_Product_Analysis/blob/main/Images/Report.PNG)
 
 ## 6. Conclusion  
 
